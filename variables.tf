@@ -1,3 +1,4 @@
+
 variable "acre_capacity" {
   type    = number
   default = 2
